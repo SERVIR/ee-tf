@@ -7,7 +7,7 @@ Please feel free to contact us if you have any questions.
 
 ### Authors
 
-- [Biplov Bandari (NASA/UAH)](https://github.com/biplovbhandari)
+- [Biplov Bhandari (NASA/UAH)](https://github.com/biplovbhandari)
 
 ## License and Distribution
 
